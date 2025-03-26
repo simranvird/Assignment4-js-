@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Mountain View",
+      "location": "Switzerland",
+      "description": "A beautiful view of the Swiss Alps.",
+      "image": "https://www.pexels.com/photo/brown-wooden-house-and-mountain-reflecting-on-lake-1586298/"
+    },
+    {
+      "name": "Beach Sunset",
+      "location": "Hawaii",
+      "description": "A stunning sunset over the ocean.",
+      "image":  "https://www.pexels.com/photo/scenic-of-ocean-during-sunset-1139541/"
+    },
+    {
+      "name": "Forest Path",
+      "location": "Canada",
+      "description": "A peaceful forest path in the Canadian wilderness.",
+      "image": "https://www.pexels.com/photo/black-hanging-bridge-surrounded-by-green-forest-trees-775201/"
+    },
+    {
+      "name": "City Skyline",
+      "location": "New York",
+      "description": "A panoramic view of the NYC skyline.",
+      "image": "https://www.pexels.com/photo/body-of-water-near-city-buildings-421927/"
+    },
+    {
+      "name": "Desert Oasis",
+      "location": "Sahara",
+      "description": "A beautiful oasis in the Sahara Desert.",
+      "image": "https://www.pexels.com/photo/green-and-brown-trees-under-blue-sky-2781914/"
+    },
+    {
+      "name": "Lake Reflection",
+      "location": "New Zealand",
+      "description": "The reflection of mountains on a clear lake.",
+      "image": "https://www.pexels.com/photo/stunning-sunset-over-lijiang-mountains-in-china-31316830/"
+    }
+  ]
+  
